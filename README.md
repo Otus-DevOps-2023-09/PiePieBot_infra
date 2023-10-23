@@ -1,4 +1,4 @@
-![image](https://github.com/Otus-DevOps-2023-09/PiePieBot_infra/assets/67807001/723c21d4-33cc-4dbc-890f-f2250ba95937)# PiePieBot_infra
+# PiePieBot_infra
 PiePieBot Infra repository
 
 1. Создание ВМ на YC
