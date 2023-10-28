@@ -4,8 +4,7 @@ users:
   sudo: ALL=(ALL) NOPASSWD:ALL
   shell: /bin/bash
   ssh_authorized_keys:
-    - "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC/vnsdp6ALwQKZN7X+G5c+sky8bi+ruD0Pqoxin+R4Vnh2usgwKiSF9epHYi9DIAL2Gr6byx/LQu3b48X6++GfbkybUC3oGgdQf0UVpYD1hiTBjL35Vswi7MD/doYrpzle8ZOZ5EegnehAKsg45lMEkQR6jj0lpnWbvAqSCZ1FArJWUCxA1awiszpbvsR96YVU+0bPWlFoi+Z5bQ+VqDVKV5ki6qhVS0+Y2NJFZJmW4TMXgbP52OFTNTCuq+I1vWQX4Bp2MGZMWPZ4w+nvt3gr631fZoZfaZzYOGeLNPXCD3XLf9XhtNk1A1a6NO0MkxtpNmV4z1EIP5Le22mpXDrB6+kb/nfgjtDMnX7KLWuzK/xy/wlTzOH0wKvWRfGnV4yuKaHly2MLEIY7mcsG8B6VLEoPn8Yi3vSb6/+OTBtepyQu2FARdVl/NgygRc7lnNJ5uN4g17R7dOJDjPozOE1Oocb4vbhfK2BJBsPEkV6R8UFA2og3otkBptVBKDvAKlE= appuser"
-
+  
 package_upgrade: true
 
 packages:
