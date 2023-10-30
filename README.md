@@ -1,6 +1,8 @@
 # PiePieBot_infra
 PiePieBot Infra repository
 
+Описание ДЗ №3
+
 1. Создание ВМ на YC
 bastion_IP = 158.160.46.100
 someinternalhost_IP = 10.128.0.7
@@ -21,3 +23,7 @@ someinternalhost_IP = 10.128.0.7
 Произведена проверка подключения к someinternalhost по внутреннему адресу 10.128.0.7
 Произведена настройка валидного сертификата через Let's Encrypt и sslip.io и установка имени https://158-160-46-100.sslip.io/login (фото с телефона, потому что Kaspersky мешает)
 ![image](https://github.com/Otus-DevOps-2023-09/PiePieBot_infra/assets/67807001/f617ea31-dbf3-4948-a644-3c15c8204541)
+
+Описание ДЗ №4
+testapp_IP = 62.84.124.251
+testapp_port = 9292
