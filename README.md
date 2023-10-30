@@ -2,6 +2,7 @@
 PiePieBot Infra repository
 
 Описание ДЗ №3
+
 1. Создание ВМ на YC
 bastion_IP = 158.160.46.100
 someinternalhost_IP = 10.128.0.7
