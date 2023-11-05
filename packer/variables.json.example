@@ -1,0 +1,9 @@
+{
+    "folder_id": "qwerty",
+    "source_image_family": "ubuntu-1604-lts",
+    "reddit_image_family": "reddit-base",
+    "service_account_key_file": "key.json.example",
+    "subnet_id": "qwerty",
+    "zone": "ru-central1-a",
+    "platform_id": "standard-v1"
+}
